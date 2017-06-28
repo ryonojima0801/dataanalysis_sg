@@ -13,8 +13,8 @@
 - 呪いの言葉禁止
 - 全力で時間を捻出する
 - 2週間に一度以上発表する
-- [形式]に従う
-- [準備]しておく(環境構築で困ったら相談してください)
+- [形式](https://github.com/ryonojima0801/studygroup#形式)に従う
+- [準備](https://github.com/ryonojima0801/studygroup#準備)しておく ※環境構築で困ったら相談してください
 - 任意のグループだということを理解する
 
 ## 形式
@@ -30,12 +30,13 @@
   - 状況によって変更あり
 
 ## 準備
-- slack(あとで)
-- AIとかの漠然とした話
-- 環境構築(RStudio または Jupyter)
-- 環境構築(Git, Github)
-- テーマを決める
-- 発表する
-- 独学のフレームワーク
-- オススメ書籍
-- FAQ 
+- [slack](https://github.com/ryonojima0801/studygroup/slack.md)
+- [AIとかの漠然とした話](https://github.com/ryonojima0801/studygroup/about_ai.md)
+- [環境構築(RStudio または Jupyter)](https://github.com/ryonojima0801/studygroup/editor.md)
+- [環境構築(Git, Github)](https://github.com/ryonojima0801/studygroup/git.md)
+- [テーマを決める](https://github.com/ryonojima0801/studygroup/theme.md)
+- [発表する](https://github.com/ryonojima0801/studygroup/presentation.md)
+- [独学のフレームワーク](https://github.com/ryonojima0801/studygroup/self_study.md)
+- [オススメ書籍)(https://github.com/ryonojima0801/studygroup/books.md)
+- [FAQ](https://github.com/ryonojima0801/studygroup/faq.md) 
+
