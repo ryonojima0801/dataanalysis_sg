@@ -37,6 +37,6 @@
 - [テーマを決める](https://github.com/ryonojima0801/studygroup/theme.md)
 - [発表する](https://github.com/ryonojima0801/studygroup/presentation.md)
 - [独学のフレームワーク](https://github.com/ryonojima0801/studygroup/self_study.md)
-- [オススメ書籍)(https://github.com/ryonojima0801/studygroup/books.md)
+- [オススメ書籍](https://github.com/ryonojima0801/studygroup/books.md)
 - [FAQ](https://github.com/ryonojima0801/studygroup/faq.md) 
 
