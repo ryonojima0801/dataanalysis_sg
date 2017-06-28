@@ -14,7 +14,7 @@
 - 全力で時間を捻出する
 - 2週間に一度以上発表する
 - [形式](#形式)に従う
-- [準備](https://github.com/ryonojima0801/studygroup#準備)しておく  ※環境構築で困ったら相談してください
+- [準備](#準備)しておく  ※環境構築で困ったら相談してください
 - 任意のグループだということを理解する
 
 ## 形式
@@ -25,14 +25,14 @@
   - 発表時間: 3–5分
   - 質問議論: 3–5分
   - 資料:　スライドシェア推奨
-- 連絡: slack
+- 連絡手段: [slack](slack.md)
 - その他:
   - リスケはなし
   - 状況によって変更あり
 
 ## 準備
 - [slack](slack.md)
-- [AIとかの漠然とした話](https://github.com/ryonojima0801/studygroup/about_ai.md)
+- [AIとかの漠然とした話](about_ai.md)
 - [環境構築(RStudio または Jupyter)](editor.md)
 - [環境構築(Git, Github)](git.md)
 - [テーマを決める](theme.md)
