@@ -31,7 +31,7 @@
   - 状況によって変更あり
 
 ## 準備
-- [slack](https://github.com/ryonojima0801/studygroup/slack.md)
+- [slack](slack.md)
 - [AIとかの漠然とした話](https://github.com/ryonojima0801/studygroup/about_ai.md)
 - [環境構築(RStudio または Jupyter)](https://github.com/ryonojima0801/studygroup/editor.md)
 - [環境構築(Git, Github)](https://github.com/ryonojima0801/studygroup/git.md)
