@@ -32,7 +32,7 @@
 
 ## 準備
 - [slack](slack.md)
-- [AIとかの漠然とした話](about_ai.md)
+- [AIとかのざっくりとした話](about_ai.md)
 - [環境構築(RStudio または Jupyter)](editor.md)
 - [環境構築(Git, Github)](git.md)
 - [テーマを決める](theme.md)
