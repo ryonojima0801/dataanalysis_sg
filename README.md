@@ -46,7 +46,7 @@
 - [FAQ](faq.md) 
 - [AIとかのざっくりとした話](about_ai.md)
 - [slack](slack.md)
-- [環境構築(RStudio または Jupyter)](editor.md)
+- [環境構築(環境構築(RまたはPython))](editor.md)
 - [環境構築(Git, Github)](git.md)
 - [テーマを決める](theme.md)
 - [発表する](presentation.md)
