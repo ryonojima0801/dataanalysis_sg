@@ -7,10 +7,10 @@
 [http://www.publickey1.jp/blog/17/slackamazoncombloomberg.html](http://www.publickey1.jp/blog/17/slackamazoncombloomberg.html)
 
 ## はじめかた
-- 参加依頼フォーム(これからつくる)にアドレスを送信
+- 参加[リクエストフォーム](https://drive.google.com/open?id=16hLsP5pX-JrLp6s_0V32P68S_UV472zrN8LLe6nV-s0)にアドレスを送信
 - しばらくすると招待メールが飛んできます
 - 必要事項を入力してログイン
-- ブラウザ版、デスクトップ版、ios、Android、それぞれクライアントがあるので必要に応じてダウンロードしてください
+- ブラウザ版の他、デスクトップ版、ios、Android、それぞれアプリがあるので必要に応じてダウンロードしてください
 - #generalチャンネルで自己紹介＆豊富を語ってください
 
 ## マニュアル
