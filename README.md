@@ -42,6 +42,7 @@
   - 人数が増えてきたらまた考えます
 
 ## 準備
+- [FAQ](faq.md) 
 - [slack](slack.md)
 - [AIとかのざっくりとした話](about_ai.md)
 - [環境構築(RStudio または Jupyter)](editor.md)
@@ -50,4 +51,3 @@
 - [発表する](presentation.md)
 - [独学のフレームワーク](self_study.md)
 - [オススメ書籍](books.md)
-- [FAQ](faq.md) 
