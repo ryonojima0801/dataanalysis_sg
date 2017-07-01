@@ -3,8 +3,11 @@
 
 ## slackとは
 (たしか)デザイナー発の、閉じたグループチャットアプリです。IT系では特にスタートアップやコミュニティではほぼ使われています。  
-最近だと、amazonの90億ドルの買収提案を蹴った話が有名ですね。  
-[http://www.publickey1.jp/blog/17/slackamazoncombloomberg.html](http://www.publickey1.jp/blog/17/slackamazoncombloomberg.html)
+最近だと、amazonの90億ドルの買収提案を蹴りそうな話が有名ですね。  
+[Slack、再度5億ドル調達へ――エンタープライズ・チャットサービスの確立を目指す | TechCrunch Japan](http://ceron.jp/url/jp.techcrunch.com/2017/06/16/20170615slack-is-reportedly-raising-another-huge-500m-round-of-funding/)
+
+こういうのも積極的にやっていきたいですね。  
+[［Slackbot大全］63種類の事例・ツールをまとめて紹介！ botを活用してSlackを便利に【2017夏】](https://employment.en-japan.com/engineerhub/entry/2017/06/30/110000)
 
 ## はじめかた
 - 参加[リクエストフォーム](https://drive.google.com/open?id=16hLsP5pX-JrLp6s_0V32P68S_UV472zrN8LLe6nV-s0)にアドレスを送信
