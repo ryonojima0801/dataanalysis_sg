@@ -35,9 +35,14 @@ Pythonは実務の場でつかわれていることが多く、また機械学�
 興味がある人や両方やりたい人はやってみてください。
 
 ### Jupyterをはじめる(Mac)
+※編集中
+- homebrewを利用する場合
+- anacondaを利用する場合
+
 ### Jupyterをはじめる(Windows10)
 
 - まず[こちら](http://pythondatascience.plavox.info/python%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB/python%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB-windows)を参考にAnacondaインストールする
 - [こちら](http://pythondatascience.plavox.info/python%E3%81%AE%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83/jupyter-notebook%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86)を参考にjupyterを起動する
 
 ## JupyterでRとPythonを両方使う
+※編集中
