@@ -49,6 +49,7 @@
 - [環境構築(RまたはPython)](editor.md)
 - [環境構築(Git, Github)](git.md)
 - [テーマを決める](theme.md)
+- [すすめる](advance.md)
 - [利用可能なデータセット](dataset.md)
 - [発表する](presentation.md)
 - [独学のフレームワーク](self_study.md)
