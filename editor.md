@@ -17,7 +17,7 @@ Rは特化とはいえプログラミング言語なので、やろうと思え�
 ダウンロードしてインストールだけなので、すぐにはじめることができます。
 
 ### RStudioをはじめる
-こちらを参考にしてください。  
+よくまとまっているのでこちらを参考にしてください。  
 [RおよびRStudioのインストール方法(Mac/Windows)](http://qiita.com/daifuku_mochi2/items/ad0b398e6affd0688c97)
 
 ※macでhomebrewで管理している人はbrew installしましょう
